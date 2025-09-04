@@ -71,7 +71,3 @@ pip install -r requirements.txt
 
 
 ---
-
-This will look **clean and professional** on GitHub, with all commands, endpoints, and code samples highlighted in blocks.  
-
-👉 Do you also want me to add a **visual ERD diagram (as an image)** and link it in the README? That would make the repo stand out even more to your lecturer/clients.
